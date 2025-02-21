@@ -65,6 +65,4 @@ Contributions are welcome! To contribute:
 ## License
 This project is licensed under the MIT License.
 
-## Author
-Developed by [Your Name](https://github.com/yourusername).
 
